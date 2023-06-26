@@ -16,7 +16,7 @@ Flexbox nos permite crear diseños, alinear y distribuir espacios entre ítems e
 En este proyecto, con los conocimiento de HTML, CSS y Flexbox realicé mi segunda página web responsiva.
 
 ## 2. Qué construí
-En este proyecto me enfoqué en construir una página web responsiva. 
+En este proyecto me enfoqué en construir una página web responsiva para un negocio de pizzas. 
 Contiene las siguientes secciones:
 
 * Header: Sección que involucra el título de la página y el link a la hoja de estilos CSS y fonts de google.
@@ -26,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a trabajar con Flexbox y CSS.
 
 ## 4. Link a demo
-Aquí puede visualizar mi proyecto terminado: [Flexbox-y-CSS]()
+Aquí puede visualizar mi proyecto terminado: [Flexbox-y-CSS](https://dazzling-syrniki-89e317.netlify.app/)
